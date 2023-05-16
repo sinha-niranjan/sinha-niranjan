@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **niranjankumaraina@gmail.com**
 
-- ⚡ Fun fact **I like to talk new people.**
+- ⚡ Fun fact **I like to talk to new people.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
