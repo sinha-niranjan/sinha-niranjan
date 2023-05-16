@@ -1,4 +1,4 @@
-![logo](https://github.com/sinha-niranjan/sinha-niranjan/blob/main/coding.webp)
+![github](https://github.com/sinha-niranjan/sinha-niranjan/blob/main/coding.webp)
 <h1 align="center">Hi 👋, I'm Niranjan Kumar</h1>
 <h3 align="center">A passionate frontend and Backend developer in MERN Stack .</h3>
 
