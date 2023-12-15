@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinha-niranjan&label=Profile%20views&color=0e75b6&style=flat" alt="sinha-niranjan" /> </p>
 
-- 🔭 I’m currently working on **WhatsApp Clone**
+- 🔭 I’m currently working on **React-native**
 
 - 🌱 I’m currently learning **React JS, Node JS, Express and Mongo DB**
 
