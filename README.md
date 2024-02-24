@@ -1,9 +1,3 @@
-![github](https://github.com/sinha-niranjan/sinha-niranjan/blob/main/Logo.gif)
-<hr />
-
-<br />
-<br />
-<br />
 <h1 align="center">Hi 👋, I'm Niranjan Kumar</h1>
 
 <br />
