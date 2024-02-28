@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinha-niranjan&label=Profile%20views&color=0e75b6&style=flat" alt="sinha-niranjan" /> </p>
 
-- 🔭 I’m currently working on **React-native**
+- 🔭 I’m currently working on **React Js**
 
 - 🌱 I’m currently learning **React JS, Node JS, Express and Mongo DB**
 
 - 📫 How to reach me **niranjankumaraina@gmail.com**
 
-- ⚡ Fun fact **I like to talk to new people.**
+- ⚡ Fun fact **I like to learn new things.**
 
 <hr />
 <h3 align="left">Connect with me:</h3>
