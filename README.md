@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **niranjankumaraina@gmail.com**
 
+- 📄 Know about my experiences [https://docs.google.com/document/d/1gJLod6PGls3Xhr9KKgAQvArN1VipTlSe/edit?usp=sharing&ouid=110676460162277602310&rtpof=true&sd=true](https://docs.google.com/document/d/1gJLod6PGls3Xhr9KKgAQvArN1VipTlSe/edit?usp=sharing&ouid=110676460162277602310&rtpof=true&sd=true)
+
 - ⚡ Fun fact **I like to learn new things.**
 
 <hr />
