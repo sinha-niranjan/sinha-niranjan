@@ -2,7 +2,7 @@
 
 <br />
 
-<h3 align="center">A passionate frontend and Backend developer in Full Stack .</h3>
+<h3 align="center">A passionate Frontend and Backend developer in Full Stack .</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **niranjankumaraina@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1gJLod6PGls3Xhr9KKgAQvArN1VipTlSe/edit?usp=sharing&ouid=110676460162277602310&rtpof=true&sd=true](https://docs.google.com/document/d/1gJLod6PGls3Xhr9KKgAQvArN1VipTlSe/edit?usp=sharing&ouid=110676460162277602310&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1gJLod6PGls3Xhr9KKgAQvArN1VipTlSe/edit?usp=sharing&ouid=110676460162277602310&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I like to learn new things.**
 
