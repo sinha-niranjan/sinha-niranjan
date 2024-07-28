@@ -8,9 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinha-niranjan&label=Profile%20views&color=0e75b6&style=flat" alt="sinha-niranjan" /> </p>
 
-- 🔭 I’m currently working on **FULL STACK**
+- 🔭 I’m currently working on **FULL STACK and DSA**
 
-- 🌱 I’m currently learning **React JS, Node JS, Express and Mongo DB**
+- 🌱 I’m currently learning **React JS, Node JS, Express, Mysql and Mongo DB**
+
+-  👨‍💻 All of my projects are available at [Portfolio](https://personal-portfolio-six-self.vercel.app/)
 
 - 📫 How to reach me **niranjankumaraina@gmail.com**
 
