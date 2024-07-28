@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **React JS, Node JS, Express, Mysql and Mongo DB**
 
--  👨‍💻 All of my projects are available at [Portfolio](https://personal-portfolio-six-self.vercel.app/)
+-  👨‍💻 All of my projects are available at [**Portfolio**](https://personal-portfolio-six-self.vercel.app/)
 
 - 📫 How to reach me **niranjankumaraina@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1w9pz6rQJbiYIMP4PhMpf-iTpa5q-afCZ/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1w9pz6rQJbiYIMP4PhMpf-iTpa5q-afCZ/view?usp=sharing)
 
 - ⚡ Fun fact **I like to learn new things.**
 
